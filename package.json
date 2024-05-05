@@ -1,0 +1,24 @@
+{
+  "name": "venkat-npm-package",
+  "version": "1.0.0",
+  "description": "Venkata's first npm package publishing",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run lint"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vevnkataSukumar/venkata-npm-package.git"
+  },
+  "keywords": [
+    "venkata",
+    "first",
+    "npm-package"
+  ],
+  "author": "Venkata",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vevnkataSukumar/venkata-npm-package/issues"
+  },
+  "homepage": "https://github.com/vevnkataSukumar/venkata-npm-package#readme"
+}
